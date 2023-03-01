@@ -6,6 +6,7 @@ www.patika.dev
 import java.util.Scanner;
 
 public class MineSweeper {
+
      int[][] tarla;
      boolean[][] acilmisHucre;
      int mayinSayisi;
